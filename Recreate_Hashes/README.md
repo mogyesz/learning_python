@@ -7,14 +7,6 @@ This script processes a file with user credentials, converts the password and sa
 #### Requirements
 Python 3.x
 
-#### Installation
-Clone this repository to your local machine:
-
-```shell
-git clone https://github.com/yourusername/recreate_hashes.git
-cd recreate_hashes
-```
-
 #### Usage:
 
 To use the script, run it from the command line with the input file as an argument. The input file should contain lines of user credentials in the following format:
